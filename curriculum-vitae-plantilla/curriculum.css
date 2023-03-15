@@ -1,0 +1,45 @@
+body {
+  background-color: hwb(200 83% 13%);
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 45px;
+  text-align: center;
+}
+.discription {
+  background-color: hwb(200 71% 21%);
+}
+h2 {
+  background-color: hwb(200 48% 38%);
+  text-decoration: underline;
+  font-size: 200%;
+  color: hwb(200 25% 65%);
+}
+span {
+  color: hwb(200 0% 40%);
+}
+.background-grey {
+  background-color: hwb(200 71% 21%);
+}
+.paragraph-blue {
+  color: hwb(200 0% 20%);
+  font-weight: bold;
+}
+h3 {
+  font-style: italic;
+  background-color: hwb(200 60% 30%);
+  color: hwb(200 35% 55%);
+  font-size: 120%;
+}
+hr {
+  border: solid grey 1px;
+}
+footer {
+  background-color: white;
+  text-align: right;
+  font-weight: bold;
+}
