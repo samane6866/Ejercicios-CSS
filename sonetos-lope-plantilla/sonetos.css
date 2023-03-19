@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+.background-yellow {
+  background-image: url(./fondos/manchas.png);
+  color: white;
+  margin: 10px 160px;
+  font-weight: bold;
+  border: solid black 2px;
+  height: 400px;
+}
+.background-yellow p {
+  padding: 0px 50px 0px 50px;
+}
+.background-pink {
+  background-image: url(./fondos/tallos.jpg);
+  color: white;
+  margin: 10px 160px;
+}
+.background-pink p {
+  font-weight: bold;
+  border: solid black 2px;
+}
+.background-eye {
+  background-image: url(./fondos/ojo.svg);
+  color: white;
+  margin: 10px 160px;
+}
+.background-eye p {
+  font-weight: bold;
+  border: solid black 2px;
+}
+.background-blue {
+  background-image: url(./fondos/estrellas.png);
+  color: white;
+  margin: 10px 160px;
+}
+.background-blue p {
+  font-weight: bold;
+  border: solid black 2px;
+}
